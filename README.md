@@ -11,3 +11,4 @@ students having issues with working with datasets.
 Only for Review or getting a general idea how to work with dataset.
 
 
+Try concatenation on state and city like on last tab/sheet this way you can establish relationship between household counts and demographic data. As primary key of concatenated string
