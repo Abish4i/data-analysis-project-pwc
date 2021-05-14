@@ -1,5 +1,5 @@
 **data-analysis-project-pwc**
-*Data Analysis and Presentation Skills: the PwC Approach Final Project
+*Data Analysis and Presentation Skills*: the _PwC Approach Final Project_
 by **PwC**
 
 Data_Capstone_Project
@@ -11,4 +11,4 @@ Only for #Review or getting a general idea how to work with dataset.
 
 Try concatenation on state and city like on last tab/sheet this way
 you can establish relationship between household counts and demographic data. 
-As primary key of concatenated string
+As primary key of concatenated string.
